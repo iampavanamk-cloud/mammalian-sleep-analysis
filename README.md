@@ -20,6 +20,6 @@ This project investigates the relationships between an animal's physical charact
 2. Ensure you have Python and the required libraries installed:
    ```bash
    pip install pandas numpy matplotlib seaborn
-   Run the analysis script:  python analysis.py
-
+3. Run the analysis script:
+   python analysis.py 
  
